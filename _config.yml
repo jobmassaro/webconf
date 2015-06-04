@@ -2,7 +2,7 @@
 title: WebConf - A blog about web conferences
 email: jobmassaro@gmail.com
 description: A blog about my favorite web conferences.
-baseurl: '/webconf'
+#baseurl: '/webconf'
 url: "http://webconf.me" # the base hostname & protocol for your site
 twitter_username: tradingtorino
 github_username:  jobmassaro
